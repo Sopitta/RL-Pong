@@ -1,0 +1,9 @@
+.idea
+__pycache__/
+*.pyc
+misc_testing*
+models/
+plots/
+*.mdl
+*.npy
+*ppo_policy.pth

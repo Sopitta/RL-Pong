@@ -1,0 +1,12 @@
+PPO hyperparameters
+learning_rate = 2.5e-4
+gamma = 0.98
+epochs = 10
+clip_epsilon = 0.1
+vf_coeff = 0.5
+ent_coeff = 0.01
+norm_adv = True
+clip_vloss = True
+max_grad_norm = 0.5
+gae = True
+gae_lambda = 0.95
